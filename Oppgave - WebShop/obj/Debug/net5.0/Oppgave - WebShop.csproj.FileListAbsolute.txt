@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\ref\Oppgave - WebShop.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\bin\Debug\net5.0\Oppgave - WebShop.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\ref\Oppgave - WebShop.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Arv\Oppgave - WebShop\Oppgave - WebShop\obj\Debug\net5.0\Oppgave - WebShop.genruntimeconfig.cache
